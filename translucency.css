@@ -1,0 +1,5 @@
+/* this snippet configures translucency for obsidian's main window and page tabs. This snippet is not my own work. */
+
+.workspace-leaf, .workspace-tab-header-container { background: transparent; } .workspace-split.mod-root, 
+.workspace-split.mod-root .view-content, .workspace-split.mod-root .view-header { background: 
+transparent; } .view-header-title-container:not(.mod-at-end):after { background: transparent; }
